@@ -1,0 +1,9 @@
+# Unity `.gitignore`
+/[Ll]ibrary/
+/[Tt]emp/
+/[O]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[L]ogs/
+/[U]ser[Ss]ettings/
+/MemoryCaptures/
